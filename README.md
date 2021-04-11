@@ -34,5 +34,4 @@ yarn dev
 ╚════════════════════╧══════════════════════════════════════════════════════╝
 ```
 
-## DEMO
-![alt demo](https://i.ibb.co/kGVdMYh/Screen-Recording-2021-04-11-at-2-44-15-pm.gif)
+## [GIF Demo](https://i.ibb.co/kGVdMYh/Screen-Recording-2021-04-11-at-2-44-15-pm.gif)
